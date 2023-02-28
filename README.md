@@ -4,6 +4,6 @@ All About Machine Learning - Bangkit 2023
 
 Perkenalkan nama saya **Fresabayu Anggoro**.\
 
-Saya seorang **Data Science** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang **Data Science** di [Dicoding](https://www.dicoding.com/).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/fresabayu)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fresabayu) ku ya.
